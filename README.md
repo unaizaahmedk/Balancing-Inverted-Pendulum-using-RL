@@ -9,7 +9,7 @@
 
 ## Project Overview  
 
-This applied engineering project uses Proximal Policy Optimization (PPO) to train a reinforcement learning (RL) agent for balancing an inverted pendulum under different gravitational settings. It was developed as part of our internship at RESOLVE (SUPARCO), where our team was assigned this task to gain practical experience in reinforcement learning and control systems.  
+This applied engineering project uses **Proximal Policy Optimization (PPO)** to train a **reinforcement learning (RL) agent** for balancing an inverted pendulum under different gravitational settings. It was developed as part of our **internship at RESOLVE (SUPARCO)**, where our team was assigned this task to gain practical experience in reinforcement learning and control systems.  
 
 The primary goal was to train an agent that can maintain the pendulum in its upright position by applying torque, while testing performance in multiple environments such as Earth gravity, lunar gravity, and microgravity. The implementation supports configurable pendulum mass and length to allow flexible experimentation.  
 
