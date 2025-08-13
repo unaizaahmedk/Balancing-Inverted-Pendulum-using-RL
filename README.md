@@ -1,6 +1,8 @@
 # Balancing Inverted Pendulum via Reinforcement Learning  
 **Internship Project – RESOLVE (SUPARCO)**  
 
+![Pendulum Balancing Demo](results/2025-08-13_20-42-47_g0_0/simulation.gif)
+
 ---
 
 ## Project Overview  
